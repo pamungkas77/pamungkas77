@@ -57,7 +57,3 @@
 </picture>
 
 ###
-
-<img src="https://raw.githubusercontent.com/pamungkas77/pamungkas77/output/snake.svg" alt="Snake animation" />
-
-###
